@@ -39,10 +39,6 @@ ul {
 	color: #757575;
 }
 
-.nav-link {
-	color: #212121;
-}
-
 /* основна частина */
 
 .title {
@@ -100,7 +96,6 @@ ul {
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 42px;
-	text-align: center;
 	letter-spacing: 0.03em;
 }
 
