@@ -22,6 +22,7 @@ ul {
 	color: #2196f3;
 }
 .nav-link {
+	text-decoration: none;
 	font-weight: 500;
 	font-size: 14px;
 	line-height: 16px;
