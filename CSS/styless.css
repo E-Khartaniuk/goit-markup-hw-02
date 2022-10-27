@@ -1,3 +1,9 @@
+:root {
+	--prime-text-color-decoretion ;
+	--secondary-text-color-decoration ;
+	--accent-color
+}
+
 body {
 	color: #212121;
 	font-family: Roboto;
@@ -76,7 +82,6 @@ ul {
 /* переваги */
 
 .benefits-title {
-	font-weight: 700;
 	font-size: 14px;
 	line-height: 16px;
 	letter-spacing: 0.03em;
@@ -93,7 +98,6 @@ ul {
 /* Чим ми займаємося */
 
 .directions-title {
-	font-weight: 700;
 	font-size: 36px;
 	line-height: 42px;
 	letter-spacing: 0.03em;
@@ -101,7 +105,6 @@ ul {
 
 /* Наша команда */
 .team-title {
-	font-weight: 700;
 	font-size: 36px;
 	line-height: 42px;
 	letter-spacing: 0.03em;
@@ -124,6 +127,7 @@ ul {
 	text-decoration: none;
 }
 .footer-contacts {
+	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
